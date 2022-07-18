@@ -4,4 +4,4 @@
 # @Author: LauTrueYes
 # @Date  : 2022/7/16 17:19
 if __name__ == '__main__':
-    print("那你是真滴牛批！")
+    print("It's really NiuBi that you can find here！")
